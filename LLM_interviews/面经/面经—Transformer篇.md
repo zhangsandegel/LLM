@@ -8,8 +8,7 @@
 
 https://zhuanlan.zhihu.com/p/338817680
 
-<img src="./pictures/image-20250924145144263.png" alt="image-20250924145144263"  />
-
+<img src="/Users/zhangyu/LLM/LLM_interviews/面经/pictures/image-20250924145144263.png" alt="image-20250924145144263"  />
 
 
 # 字节一面

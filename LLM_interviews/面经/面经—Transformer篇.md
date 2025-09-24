@@ -8,7 +8,7 @@
 
 https://zhuanlan.zhihu.com/p/338817680
 
-<img src="/Users/zhangyu/Library/Application Support/typora-user-images/image-20250924145144263.png" alt="image-20250924145144263"  />
+<img src="[/Users/zhangyu/Library/Application Support/typora-user-images/image-20250924145144263.png](https://github.com/zhangsandegel/LLM/blob/main/pictures/image-20250924145144263.png)" alt="image-20250924145144263"  />
 
 ##### ![image-20250924153051592](/Users/zhangyu/Library/Application Support/typora-user-images/image-20250924153051592.png)
 

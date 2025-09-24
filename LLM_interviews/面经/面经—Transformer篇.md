@@ -10,10 +10,6 @@ https://zhuanlan.zhihu.com/p/338817680
 
 <img src="./pictures/image-20250924145144263.png" alt="image-20250924145144263"  />
 
-##### ![image-20250924153051592](/Users/zhangyu/Library/Application Support/typora-user-images/image-20250924153051592.png)
-
-![image-20250924153017970](/Users/zhangyu/Library/Application Support/typora-user-images/image-20250924153017970.png)
-
 
 
 # 字节一面

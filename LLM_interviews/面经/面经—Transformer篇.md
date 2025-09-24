@@ -161,7 +161,7 @@ https://zhuanlan.zhihu.com/p/338817680
 
 ### 2. **具体讲Multi-Head Attention怎么做的以及公式，为什么要除根号下dk？**
 
-- - - 
+- - -
 
 ------
 

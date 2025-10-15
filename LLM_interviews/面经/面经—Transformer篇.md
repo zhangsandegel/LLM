@@ -8,7 +8,7 @@
 
 https://zhuanlan.zhihu.com/p/338817680
 
-<img src="/Users/zhangyu/LLM/LLM_interviews/面经/pictures/image-20250924145144263.png" alt="image-20250924145144263"  />
+<img src="/Users/zhangyu/Library/Application Support/typora-user-images/image-20250925220846576.png" alt="image-20250925220846576" style="zoom:67%;" />
 
 
 # 字节一面
